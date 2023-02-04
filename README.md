@@ -1,0 +1,1 @@
+# Dizi_Elemanlarinin_Faktoriyel_Dizisi
